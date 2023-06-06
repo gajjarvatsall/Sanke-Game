@@ -81,7 +81,7 @@ The Snake Game is licensed under the MIT License. See the [LICENSE](LICENSE) fil
 
 For any questions or inquiries, please contact the project maintainer:
 
-- Name: John Doe
-- Email: john.doe@example.com
+- Name: Vatsal Gajjar
+- Email: vatsalgajjar84@gmail.com
 
 Enjoy playing the Snake Game!
